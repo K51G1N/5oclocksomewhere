@@ -6,7 +6,7 @@ Well with this app it'll tell you where it's currently in it's 17th hour (betwee
 
 This application combines a React front-end with a Python Flask back-end to provide a unique feature. Users can click the "Get Random Location" button, which then results in a country and time being displayed.
 
-The Flask server, powered by Python, runs an `app.py` script, which leverages the logic from `main.py`. The server's functionality is to select a random location within a timezone corresponding to the 17th hour (5 PM).
+The Flask server, powered by Python, runs an `app.py`. The server's functionality is to select a random location within a timezone corresponding to the 17th hour (5 PM).
 
 I've hosted the app on heroku and so you can find it [here](https://immense-inlet-96264-5446a2834a97.herokuapp.com/)
 
