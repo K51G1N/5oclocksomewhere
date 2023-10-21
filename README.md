@@ -35,5 +35,7 @@ Use npm to install the project dependencies:
 In 5o_clock_somewhere_ui
 ```npm install```
 
+```npm run build```
+
 get it up and running 
 ```npm start```
