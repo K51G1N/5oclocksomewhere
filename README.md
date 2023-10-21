@@ -8,6 +8,8 @@ This application combines a React front-end with a Python Flask back-end to prov
 
 The Flask server, powered by Python, runs an `app.py` script, which leverages the logic from `main.py`. The server's functionality is to select a random location within a timezone corresponding to the 17th hour (5 PM).
 
+I've hosted the app on heroku and so you can find it [here](https://immense-inlet-96264-5446a2834a97.herokuapp.com/)
+
 ## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
