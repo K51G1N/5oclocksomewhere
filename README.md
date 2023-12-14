@@ -41,3 +41,8 @@ In 5o_clock_somewhere_ui
 
 get it up and running 
 ```npm start```
+
+
+## WHat it looks like
+
+<img width="566" alt="image" src="https://github.com/K51G1N/5oclocksomewhere/assets/18596799/98da1c9e-15bc-4a6c-a954-5676c59482a5">
